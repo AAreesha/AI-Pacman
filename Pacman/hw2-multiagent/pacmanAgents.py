@@ -17,6 +17,7 @@ from game import Agent
 import random
 import game
 import util
+#check
 
 class LeftTurnAgent(game.Agent):
     "An agent that turns left at every opportunity"
